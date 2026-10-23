@@ -34,7 +34,7 @@ Todas las operaciones con la base de datos están protegidas con try/catch (SqlE
 
 ## Video
 
-enlace pendiente-
+https://drive.google.com/file/d/1hnFwxUqtwBpY0zkiyR_ZgqDEvpAK753N/view?usp=drive_link
 
 ## Autor
 
